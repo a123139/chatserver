@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-7/root/usr/bin/c++  -g -std=c++17 -rdynamic CMakeFiles/Chatclient.dir/mian.cpp.o -o ../../../bin/Chatclient   -L/root/projects/thirdparty  -Wl,-rpath,/root/projects/thirdparty -lpthread 

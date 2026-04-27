@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-7/root/usr/bin/c++  -g -std=c++17 -rdynamic CMakeFiles/cmakeserver.dir/muduo_server.cpp.o -o ../bin/cmakeserver   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lmuduo_net -lmuduo_base -lpthread 
